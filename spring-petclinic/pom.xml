@@ -55,6 +55,7 @@
 
         <version.maven.eclipse>2.9</version.maven.eclipse>
         <version.maven.eclipse.wtp>2.0</version.maven.eclipse.wtp>
+        <cobertura.version>2.7</cobertura.version>
 
     </properties>
 
